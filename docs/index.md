@@ -1,5 +1,5 @@
-#Climate Claims Analysis: 
-##"Data versus Hype: How Ten Cities Show Sea-level Rise Is a False Crisis" by Dennis Hedke (October 2017)
+# Climate Claims Analysis: 
+## "Data versus Hype: How Ten Cities Show Sea-level Rise Is a False Crisis" by Dennis Hedke (October 2017)
 
 Hedke’s argument is straightforward and intuitive: sea levels are not rising despite an increase in CO2 emissions, and therefore “CO2 is not, and has never been, an air pollutant” (2017, p.11). He does this comparing sea level data from ten coastal cities, often beginning over 100 years ago, with CO2 emission levels, showing that while sea level rise is occurring in these cities, it has been happening at a fairly constant rate over the past 100 years, while CO2 emission levels have increased significantly. These 100-year increases of between three and 16 inches are significantly smaller than the massive rise in sea levels seen 20,000 years ago, during the retreat of ice sheets. Because the data suggests that there is no massive sea level rise occurring due to anthropogenic climate change, anthropogenic climate change must be a myth and CO2 must not be an air pollutant (Hedke, 2017).
 
